@@ -132,10 +132,11 @@ This application is a practical engineering tool that combines OOP principles, a
 6. Stop
 
 ## Pseudocode
-START
-Display welcome message
-Display project title
-Ask for number of circuits
+
+ START
+ Display welcome message
+ Display project title
+ Ask for number of circuits
 
 IF number of circuits is less than or equal to 0 THEN
     Display error message
@@ -164,11 +165,11 @@ FOR each circuit from 1 to number of circuits DO
 
     Display protection report
     Save protection report to file
-END FOR
+ END FOR
 
-Close file
-Display message that report has been saved
-STOP
+ Close file
+ Display message that report has been saved
+ STOP
 
 ## Future Improvements
 
