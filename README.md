@@ -13,9 +13,9 @@ PRESENTATION FOR GROUP 2.1
 |EZRA ARMOO ENISON	               |01243736B	             |C++ Programmer|
 |BENSAH JUNIOR JOSEPH	            |01242875B	             |Testing Lead|
 |QUARSHIE DENNIS WISE		         |01242874B                |GitHub Manager|
-|LEMBOE MARVELOUS MARSHAL	      |01242579B	             |Documentation Lead|
+|LEMBOE MARVELOUS MARSHAL	         |01242579B	             |Documentation Lead|
 |MARTIN BABILAH	                  |01240920B	             |Presentation Lead|
-
+|BENJAMIN AGBLEKE                   |01246782B                |Contributers Writer|
 
 ## Course Name and Code
 
